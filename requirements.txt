@@ -1,0 +1,17 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-bcrypt
+flask-jwt-extended
+streamlit
+requests
+openpyxl
+pandas
+plotly
+scikit-learn
+feedparser
+networkx
+spacy
+pyvis
+xgboost
+guicorn
